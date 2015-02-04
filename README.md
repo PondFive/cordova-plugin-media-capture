@@ -19,4 +19,6 @@
 
 # org.apache.cordova.media-capture
 
+- This fork enables HD 1080p video capture directly from iOS camera.
+
 Plugin documentation: [doc/index.md](doc/index.md)
